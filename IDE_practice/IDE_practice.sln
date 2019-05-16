@@ -16,6 +16,19 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Debug_practice", "Debug_pra
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Add_Existed_file", "Add_Existed_file\Add_Existed_file.vcxproj", "{C7905ECD-5396-41A1-B480-4874997B7CF7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Challenge_Practice1", "Challenge_Practice1\Challenge_Practice1.vcxproj", "{29B775AF-0CC9-48E0-A2E6-87BDA21B8E94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Warehouse", "Warehouse", "{EDC752F4-A8C0-44DE-944C-8493197A76DB}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\iot_bigdata2019\C_Study_basic\1_CLI\3_function\2_precaution\1_t_return_without_value.c = ..\..\iot_bigdata2019\C_Study_basic\1_CLI\3_function\2_precaution\1_t_return_without_value.c
+		..\..\iot_bigdata2019\C_Study_basic\1_CLI\3_function\2_precaution\2_t_function_proto_type.c = ..\..\iot_bigdata2019\C_Study_basic\1_CLI\3_function\2_precaution\2_t_function_proto_type.c
+		..\..\iot_bigdata2019\C_Study_basic\1_CLI\3_function\2_precaution\3_t_function_proto_type2.c = ..\..\iot_bigdata2019\C_Study_basic\1_CLI\3_function\2_precaution\3_t_function_proto_type2.c
+		..\..\iot_bigdata2019\C_Study_basic\1_CLI\3_function\2_precaution\4_t_function_proto_type3.c = ..\..\iot_bigdata2019\C_Study_basic\1_CLI\3_function\2_precaution\4_t_function_proto_type3.c
+		..\..\iot_bigdata2019\C_Study_basic\1_CLI\3_function\2_precaution\5_multi_return.c = ..\..\iot_bigdata2019\C_Study_basic\1_CLI\3_function\2_precaution\5_multi_return.c
+		..\..\iot_bigdata2019\C_Study_basic\1_CLI\3_function\2_precaution\6_219_AbsoCompare.c = ..\..\iot_bigdata2019\C_Study_basic\1_CLI\3_function\2_precaution\6_219_AbsoCompare.c
+		..\..\iot_bigdata2019\C_Study_basic\1_CLI\3_function\2_precaution\7_t_word_spacing.c = ..\..\iot_bigdata2019\C_Study_basic\1_CLI\3_function\2_precaution\7_t_word_spacing.c
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -56,6 +69,14 @@ Global
 		{C7905ECD-5396-41A1-B480-4874997B7CF7}.Release|x64.Build.0 = Release|x64
 		{C7905ECD-5396-41A1-B480-4874997B7CF7}.Release|x86.ActiveCfg = Release|Win32
 		{C7905ECD-5396-41A1-B480-4874997B7CF7}.Release|x86.Build.0 = Release|Win32
+		{29B775AF-0CC9-48E0-A2E6-87BDA21B8E94}.Debug|x64.ActiveCfg = Debug|x64
+		{29B775AF-0CC9-48E0-A2E6-87BDA21B8E94}.Debug|x64.Build.0 = Debug|x64
+		{29B775AF-0CC9-48E0-A2E6-87BDA21B8E94}.Debug|x86.ActiveCfg = Debug|Win32
+		{29B775AF-0CC9-48E0-A2E6-87BDA21B8E94}.Debug|x86.Build.0 = Debug|Win32
+		{29B775AF-0CC9-48E0-A2E6-87BDA21B8E94}.Release|x64.ActiveCfg = Release|x64
+		{29B775AF-0CC9-48E0-A2E6-87BDA21B8E94}.Release|x64.Build.0 = Release|x64
+		{29B775AF-0CC9-48E0-A2E6-87BDA21B8E94}.Release|x86.ActiveCfg = Release|Win32
+		{29B775AF-0CC9-48E0-A2E6-87BDA21B8E94}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

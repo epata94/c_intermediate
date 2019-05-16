@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\iot_bigdata2019\C_Study_basic\1_CLI\3_function\2_precaution\3_t_function_proto_type2.c">
+    <ClCompile Include="c4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
